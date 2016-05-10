@@ -4,7 +4,7 @@
 C:\xampp\htdocs\member\complete.php
 ファイル名
 complete.php
-アクセスURL
+アクセスURL  test
 http://localhost/member/complete.class.php
 */
 
